@@ -18,7 +18,7 @@ fun main(args: Array<String>) {
     val idade: Byte = 13
      */
 
-    println(nomeCompleto)
+    // println(nomeCompleto)
 
 
 
